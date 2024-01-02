@@ -4,6 +4,7 @@
 </h1>
 
 <h4 align="center">Custom Kernel for Samsung M21.</h4>
+<h4 align="center">Upstream from Grass Kernel</h4>
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
@@ -24,7 +25,7 @@
 
 ## How To Build
 
-You will need ubuntu, git, around 8GB RAM and bla-bla-bla...
+setup all your environment !
 
 ```bash
 
@@ -45,7 +46,7 @@ After build the image of the kernel will be in out/arch/arm64/boot/Image
 
 ## Credits
 
-- [roynatech2544](https://github.com/roynatech2544)
+- [roynatech2544](https://github.com/roynatech2544) for Grass source
 - [Samsung Open Source](https://opensource.samsung.com/)
 - [Android Open Source Project](https://source.android.com/)
 - [The Linux Kernel](https://www.kernel.org/)
